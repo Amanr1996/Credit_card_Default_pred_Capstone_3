@@ -58,10 +58,11 @@ Interpretability: While the performance of the models is important, it is also i
 Real-time deployment: Once a model has been developed and trained, it could be deployed in a real-time environment to make predictions on new data. Techniques such as containerization or serverless computing could be used to deploy the models in a scalable and cost-effective way.
 
 **Conclusion**
+
 In conclusion, the project aimed to develop a machine learning model for predicting credit card defaulters based on a given dataset. Three different models were evaluated: KNN Classification, Logistic Regression, and Random Forest with Randomized Search CV. Based on the results, the Random Forest model performed the best in terms of accuracy, precision, and recall.
 
 The most important features for predicting credit card defaulters were found to be gender, education, marital status, maximum credit given, age, payment status, bill amount, and payment amount. However, the importance of each feature may vary depending on the specific dataset and problem being addressed.
 
 Future scope for the project includes exploring feature engineering, hyperparameter tuning, ensemble methods, class imbalance, interpretability, and real-time deployment. These areas of research could further improve the performance and applicability of the machine learning models for predicting credit card defaulters.
 
-**Overall, the project provides insights into the factors that are important for predicting credit card defaulters and demonstrates the potential of machine learning for solving real-world problems in the finance industry.
+**Overall, the project provides insights into the factors that are important for predicting credit card defaulters and demonstrates the potential of machine learning for solving real-world problems in the finance industry.**
